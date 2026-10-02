@@ -326,8 +326,8 @@ print(longest)
 
 
 # 22- Write a program to group elements based on frequency.
-# li = [2,4,6,4,3,2,4,5,5,4,3,2,3,4,5,6,5,3]
-# li = [2,2,2,3,3,3,3,etc5]
+# Input- li = [2,4,6,4,3,2,4,5,5,4,3,2,3,4,5,6,5,3]
+# Output- li = [2,2,2,3,3,3,3,etc5]
 
 
 '''li = [2,4,6,4,3,2,4,5,5,4,3,2,3,4,5,6,5,3]
